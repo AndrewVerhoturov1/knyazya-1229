@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="t d">
+ <title id="t">Черниговская история — схема городов</title><desc id="d">Города нанесены по современным ориентирам WGS84 из стартовых данных. Пунктир обозначает условные связи игры, а не подтверждённые древние дороги. Исторические границы не показаны.</desc>
+ <defs><pattern id="fibres" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M4 13l10-1m8 9 6 1" stroke="#705536" stroke-opacity=".055" stroke-width=".8"/></pattern></defs>
+ <rect width="1000" height="640" rx="3" fill="#efe4cf"/><rect width="1000" height="640" fill="url(#fibres)"/>
+ <path d="M15 15H985V625H15Z" fill="none" stroke="#bca681" stroke-width="2"/>
+ <path d="M28 28h944v584H28z" fill="none" stroke="#d6c3a2" stroke-width="1.2"/>
+ <g fill="none" stroke="#a9916b" stroke-width="2"><path d="M37 83V37h46M917 37h46v46M37 556v46h46M917 602h46v-46"/></g>
+ <text x="59" y="67" fill="#685138" font-size="18" letter-spacing="4" font-family="Georgia,serif">ЛИСТ II</text>
+ <text x="500" y="61" fill="#4c3e30" font-size="29" text-anchor="middle" font-family="Georgia,serif">Черниговская история</text>
+ <path d="M330 78h340" stroke="#ad8647" stroke-width="2"/>
+ <path d="M118 457C235 366 410 490 514 359S752 310 864 212" fill="none" stroke="#547680" stroke-width="13" opacity=".16"/><path d="M118 457C235 366 410 490 514 359S752 310 864 212" fill="none" stroke="#547680" stroke-width="2.5" stroke-dasharray="2 10" opacity=".4"/><g><path d="M212.8 502.2L127.2 456.7" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M212.8 502.2L480.1 389.8" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M212.8 502.2L410.4 261.8" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M480.1 389.8L546.1 262.2" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M480.1 389.8L560.1 537.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M560.1 537.0L669.5 485.3" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M669.5 485.3L872.8 450.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M546.1 262.2L410.4 261.8" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M546.1 262.2L626.8 117.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M212.8 502.2L626.8 117.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M212.8 502.2L560.1 537.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/></g><g><g class="map-city" transform="translate(212.81 502.16)">
+ <circle r="13" fill="#f9f0df" stroke="#48614b" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#48614b" stroke-width="2"/>
+ <circle r="2.2" fill="#48614b"/>
+ <text x="18" y="28" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="700" font-family="Georgia,serif">Чернигов</text></g>
+<g class="map-city" transform="translate(127.15 456.70)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="-15" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Любеч</text></g>
+<g class="map-city" transform="translate(480.12 389.77)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="-14" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="17" font-weight="500" font-family="Georgia,serif">Новгород-Северский</text></g>
+<g class="map-city" transform="translate(560.11 537.00)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="-21" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Путивль</text></g>
+<g class="map-city" transform="translate(546.09 262.16)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="28" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Трубчевск</text></g>
+<g class="map-city" transform="translate(410.36 261.76)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="24" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Стародуб</text></g>
+<g class="map-city" transform="translate(626.85 117.00)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="-14" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Брянск</text></g>
+<g class="map-city" transform="translate(872.85 450.00)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="28" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Курск</text></g>
+<g class="map-city" transform="translate(669.53 485.32)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="16" y="-14" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Рыльск</text></g></g>
+ <path d="M57 545H942" stroke="#aa906d" stroke-width="1.5"/>
+ <g font-family="Arial,sans-serif" font-size="15" fill="#51493d">
+ <circle cx="68" cy="574" r="7" fill="none" stroke="#48614b" stroke-width="3"/><text x="83" y="579">Прямое владение или опорный пункт</text>
+ <circle cx="414" cy="574" r="7" fill="none" stroke="#a78148" stroke-width="3"/><text x="429" y="579">Отдельный держатель</text>
+ <path d="M709 574h43" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7"/><text x="762" y="579">Связь [И]</text>
+ <text x="57" y="603" font-size="13">Схема владений и связей 1229–1231. Границы и значительная часть дорог неизвестны.</text></g>
+ </svg>

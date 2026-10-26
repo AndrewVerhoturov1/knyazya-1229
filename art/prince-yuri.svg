@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 410" role="img" aria-label="Условный знак княжеского стола, не портрет">
+<rect width="340" height="410" fill="#eadcc3"/>
+<rect x="15" y="15" width="310" height="380" fill="none" stroke="#a48d69" stroke-width="3"/>
+<rect x="28" y="28" width="284" height="354" fill="none" stroke="#a48d69" stroke-width="1" stroke-dasharray="4 6"/>
+<circle cx="170" cy="181" r="121" fill="#f3e8d1" stroke="#62716b" stroke-width="4"/>
+<circle cx="170" cy="181" r="110" fill="none" stroke="#62716b" stroke-width="1.5" opacity=".6"/>
+<path d="M72 251Q170 218 268 251v45H72Z" fill="#e3d3b5" stroke="#62716b" stroke-width="4"/>
+<path d="M90 247v-86l31-28 29 28v86h40v-112l28-29 31 29v112" fill="#e7d8b9" stroke="#62716b" stroke-width="5"/>
+<path d="M82 161l39-37 38 37M182 136l36-39 40 39" stroke="#62716b" stroke-width="6" fill="none"/>
+<path d="M108 192h24m73-22h27m-124 40h24m73-4h27" stroke="#62716b" stroke-width="4"/>
+<path d="M108 247v-18q13-12 25 0v18m76 0v-18q11-12 22 0v18" fill="#62716b"/>
+<path d="M59 308h222m-205 10h188M101 329h138" stroke="#62716b" stroke-width="3" opacity=".64"/>
+<circle cx="170" cy="55" r="6" fill="#62716b"/><circle cx="170" cy="350" r="6" fill="#62716b"/>
+<path d="M122 368h96" stroke="#62716b" stroke-width="3"/>
+</svg>

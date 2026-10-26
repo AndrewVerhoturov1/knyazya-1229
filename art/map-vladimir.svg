@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="t d">
+ <title id="t">Владимирская история — схема городов</title><desc id="d">Города нанесены по современным ориентирам WGS84 из стартовых данных. Пунктир обозначает условные связи игры, а не подтверждённые древние дороги. Исторические границы не показаны.</desc>
+ <defs><pattern id="fibres" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M4 13l10-1m8 9 6 1" stroke="#705536" stroke-opacity=".055" stroke-width=".8"/></pattern></defs>
+ <rect width="1000" height="640" rx="3" fill="#efe4cf"/><rect width="1000" height="640" fill="url(#fibres)"/>
+ <path d="M15 15H985V625H15Z" fill="none" stroke="#bca681" stroke-width="2"/>
+ <path d="M28 28h944v584H28z" fill="none" stroke="#d6c3a2" stroke-width="1.2"/>
+ <g fill="none" stroke="#a9916b" stroke-width="2"><path d="M37 83V37h46M917 37h46v46M37 556v46h46M917 602h46v-46"/></g>
+ <text x="59" y="67" fill="#685138" font-size="18" letter-spacing="4" font-family="Georgia,serif">ЛИСТ I</text>
+ <text x="500" y="61" fill="#4c3e30" font-size="29" text-anchor="middle" font-family="Georgia,serif">Владимирская история</text>
+ <path d="M330 78h340" stroke="#ad8647" stroke-width="2"/>
+ <path d="M90 392C232 331 335 407 508 336S750 303 910 350" fill="none" stroke="#6a9196" stroke-width="13" opacity=".19"/><path d="M90 392C232 331 335 407 508 336S750 303 910 350" fill="none" stroke="#547680" stroke-width="2.5" stroke-dasharray="2 9" opacity=".4"/><g><path d="M430.8 365.4L434.6 317.2" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M430.8 365.4L761.3 332.6" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M430.8 365.4L363.8 304.3" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M430.8 365.4L581.9 456.5" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M434.6 317.2L363.8 304.3" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M434.6 317.2L340.5 190.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M340.5 190.0L383.6 117.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M340.5 190.0L287.4 264.6" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M287.4 264.6L363.8 304.3" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M761.3 332.6L712.7 279.4" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M712.7 279.4L581.9 456.5" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M581.9 456.5L280.1 537.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M430.8 365.4L280.1 537.0" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M383.6 117.0L238.7 133.5" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/>
+<path d="M340.5 190.0L238.7 133.5" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7" opacity=".75"/></g><g><g class="map-city" transform="translate(430.78 365.35)">
+ <circle r="13" fill="#f9f0df" stroke="#48614b" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#48614b" stroke-width="2"/>
+ <circle r="2.2" fill="#48614b"/>
+ <text x="18" y="30" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="700" font-family="Georgia,serif">Владимир</text></g>
+<g class="map-city" transform="translate(434.58 317.17)">
+ <circle r="13" fill="#f9f0df" stroke="#48614b" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#48614b" stroke-width="2"/>
+ <circle r="2.2" fill="#48614b"/>
+ <text x="15" y="-15" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="700" font-family="Georgia,serif">Суздаль</text></g>
+<g class="map-city" transform="translate(761.30 332.58)">
+ <circle r="17" fill="#f9f0df" stroke="#48614b" stroke-width="4"/>
+ <path d="M-10 6V-7h6v-5H3v5h7V6zM-4 6V1h8v5" fill="none" stroke="#48614b" stroke-width="2"/>
+ <circle r="2.2" fill="#48614b"/>
+ <text x="18" y="-15" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="17" font-weight="700" font-family="Georgia,serif">Нижний Новгород</text></g>
+<g class="map-city" transform="translate(340.52 190.04)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="25" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Ростов</text></g>
+<g class="map-city" transform="translate(287.35 264.55)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="-22" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="17" font-weight="500" font-family="Georgia,serif">Переяславль-Залесский</text></g>
+<g class="map-city" transform="translate(383.55 117.00)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="-15" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Ярославль</text></g>
+<g class="map-city" transform="translate(363.82 304.27)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="-17" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Юрьев-Польской</text></g>
+<g class="map-city" transform="translate(712.69 279.41)">
+ <circle r="13" fill="#f9f0df" stroke="#48614b" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#48614b" stroke-width="2"/>
+ <circle r="2.2" fill="#48614b"/>
+ <text x="-18" y="25" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="700" font-family="Georgia,serif">Городец</text></g>
+<g class="map-city" transform="translate(581.94 456.50)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="17" y="27" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Муром</text></g>
+<g class="map-city" transform="translate(280.07 537.00)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="18" y="-15" text-anchor="start" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Коломна</text></g>
+<g class="map-city" transform="translate(238.70 133.52)">
+ <circle r="13" fill="#f9f0df" stroke="#a78148" stroke-width="3"/>
+ <path d="M-7 4V-4l7-5 7 5v8zM-3 4V0h6v4" fill="none" stroke="#a78148" stroke-width="2"/>
+ <circle r="2.2" fill="#a78148"/>
+ <text x="-18" y="26" text-anchor="end" fill="#352e25" stroke="#f0e3cb" stroke-width="5" paint-order="stroke" font-size="19" font-weight="500" font-family="Georgia,serif">Углич</text></g></g>
+ <path d="M57 545H942" stroke="#aa906d" stroke-width="1.5"/>
+ <g font-family="Arial,sans-serif" font-size="15" fill="#51493d">
+ <circle cx="68" cy="574" r="7" fill="none" stroke="#48614b" stroke-width="3"/><text x="83" y="579">Прямое владение или опорный пункт</text>
+ <circle cx="414" cy="574" r="7" fill="none" stroke="#a78148" stroke-width="3"/><text x="429" y="579">Отдельный держатель</text>
+ <path d="M709 574h43" stroke="#9d7d56" stroke-width="2" stroke-dasharray="5 7"/><text x="762" y="579">Связь [И]</text>
+ <text x="57" y="603" font-size="13">Схема владений и связей 1229–1231. Границы и значительная часть дорог неизвестны.</text></g>
+ </svg>
